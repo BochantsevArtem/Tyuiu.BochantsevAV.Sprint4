@@ -24,4 +24,19 @@
     <Project Path="Tyuiu.BochantsevAV.Sprint4.Task4.V25.Test/Tyuiu.BochantsevAV.Sprint4.Task4.V25.Test.csproj" />
     <Project Path="Tyuiu.BochantsevAV.Sprint4.Task4.V25/Tyuiu.BochantsevAV.Sprint4.Task4.V25.csproj" />
   </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task5.V2.Lib/Tyuiu.BochantsevAV.Sprint4.Task5.V2.Lib.csproj" Id="3beb36fc-00fe-4ea1-99a9-3596c299bad3" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task5.V2.Test/Tyuiu.BochantsevAV.Sprint4.Task5.V2.Test.csproj" Id="a169784d-3dc2-4aaa-80d0-33690f07d900" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task5.V2/Tyuiu.BochantsevAV.Sprint4.Task5.V2.csproj" Id="cb12bb29-680d-4bdd-a377-258a9e294259" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task6.V10.Lib/Tyuiu.BochantsevAV.Sprint4.Task6.V10.Lib.csproj" Id="b33e98a2-2829-4e50-8b84-d904b492d605" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task6.V10.Test/Tyuiu.BochantsevAV.Sprint4.Task6.V10.Test.csproj" Id="4514e0bb-2b0c-4f5f-8625-bf6cdf5fa054" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task6.V10/Tyuiu.BochantsevAV.Sprint4.Task6.V10.csproj" Id="449e0a6b-0ee5-4cd7-b285-da2413ca381a" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task7.V12.Lib/Tyuiu.BochantsevAV.Sprint4.Task7.V12.Lib.csproj" Id="4ae84ba9-79ee-4762-9367-f9c95cd884b1" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task7.V12.Test/Tyuiu.BochantsevAV.Sprint4.Task7.V12.Test.csproj" Id="dbeae846-f8b9-4d96-ae18-057ae433802c" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint4.Task7.V12/Tyuiu.BochantsevAV.Sprint4.Task7.V12.csproj" Id="9128a317-2a43-44ba-9d91-83b29b7af47a" />
+  </Folder>
 </Solution>
